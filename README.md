@@ -1,5 +1,5 @@
 # parcel-transformer-peggy
-A [Peggy](https://peggyjs.org/) (fork of PEG.js which is now unsupported) transformer for [Parcel 2](https://parceljs.org/).
+A [Peggy](https://peggyjs.org/) (fork of PEG.js which is now unsupported) transformer for [Parcel v2](https://parceljs.org/).
 
 Based on https://github.com/lgarron/parcel-transformer-pegjs. If you are still using PEG.js recommened using parcel-transformer-pegjs instead.
 

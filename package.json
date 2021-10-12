@@ -1,6 +1,8 @@
 {
   "name": "parcel-transformer-peggy",
-  "version": "1.0.0",
+  "version": "0.9.0",
+  "description": "A Peggy (https://peggyjs.org/) transformer for Parcel v2.",
+  "author": "Arindam Ghoshal",
   "license": "MIT",
   "repository": {
     "type": "git",
