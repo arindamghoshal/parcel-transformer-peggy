@@ -8,7 +8,7 @@ Based on https://github.com/lgarron/parcel-transformer-pegjs. If you are still u
 Run:
 
 ```console
-yarn add parcel-transformer-peggy
+yarn add --dev parcel-transformer-peggy
 ```
 
 Add to `.parcelrc`:
