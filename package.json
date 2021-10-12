@@ -1,0 +1,18 @@
+{
+  "name": "parcel-transformer-peggy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arindamghoshal/parcel-transformer-peggy.git"
+  },
+  "main": "js/PeggyTransformer.js",
+  "engines": {
+    "node": ">= 10.0.0",
+    "parcel": "^2.0.0-alpha.1.1"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.0.0-alpha.3",
+    "peggy": "^1.2.0"
+  }
+}
